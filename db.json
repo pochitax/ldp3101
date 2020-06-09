@@ -5,112 +5,128 @@
             "nombre": "Luis Altamirano",
             "email": "luis.altamiran@alumnos.duoc.cl",
             "rut": "19328211-3",
-            "avatar": "https://randomuser.me/api/portraits/lego/1.jpg"
+            "avatar": "https://randomuser.me/api/portraits/lego/1.jpg",
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
         },
         {
             "id": 2,
             "nombre": "Daniel Antio",
             "email": "da.antio@alumnos.duoc.cl",
             "rut": "19618757-K",
-            "avatar": "https://randomuser.me/api/portraits/lego/2.jpg"
+            "avatar": "https://randomuser.me/api/portraits/lego/2.jpg",
+            "descripcion": "Nam ac lorem in ipsum tincidunt imperdiet."
         },
         {
             "id": 3,
             "nombre": "Francisca Araya",
             "email": "fraj.araya@alumnos.duoc.cl",
             "rut": "20014538-0",
-            "avatar": "https://randomuser.me/api/portraits/lego/3.jpg"
+            "avatar": "https://randomuser.me/api/portraits/lego/3.jpg",
+            "descripcion": "Etiam sit amet ex aliquet, mattis sem et, sodales lectus."
         },
         {
             "id": 4,
             "nombre": "Marcelo Arias",
             "email": "ma.ariass@alumnos.duoc.cl",
             "rut": "19664604-3",
-            "avatar": "https://randomuser.me/api/portraits/lego/4.jpg"
+            "avatar": "https://randomuser.me/api/portraits/lego/4.jpg",
+            "descripcion": "Integer sit amet nisl a odio iaculis facilisis."
         },
         {
             "id": 5,
             "nombre": "Elvis Cajales",
             "email": "e.cajales@alumnos.duoc.cl",
             "rut": "19577501-K",
-            "avatar": "https://randomuser.me/api/portraits/lego/5.jpg"
+            "avatar": "https://randomuser.me/api/portraits/lego/5.jpg",
+            "descripcion": "Cras at metus nec tellus pretium maximus."
         },
         {
             "id": 6,
             "nombre": "Nicolás Cheuque",
             "email": "ni.cheuque@alumnos.duoc.cl",
             "rut": "20729028-9",
-            "avatar": "https://randomuser.me/api/portraits/lego/6.jpg"
+            "avatar": "https://randomuser.me/api/portraits/lego/6.jpg",
+            "descripcion": "Quisque nec ante quis neque finibus malesuada nec eu velit."
         },
         {
             "id": 7,
             "nombre": "Paulina Escudero",
             "email": "pau.escudero@alumnos.duoc.cl",
             "rut": "19449127-1",
-            "avatar": "https://randomuser.me/api/portraits/lego/7.jpg"
+            "avatar": "https://randomuser.me/api/portraits/lego/7.jpg",
+            "descripcion": "Sed porta massa sed velit cursus, quis vestibulum dui tincidunt."
         },
         {
             "id": 8,
             "nombre": "Juan Figueroa",
             "email": "juaa.figueroa@alumnos.duoc.cl",
             "rut": "20271785-3",
-            "avatar": "https://randomuser.me/api/portraits/lego/8.jpg"
+            "avatar": "https://randomuser.me/api/portraits/lego/8.jpg",
+            "descripcion": "Sed luctus lorem sit amet efficitur hendrerit."
         },
         {
             "id": 9,
             "nombre": "Eros Fonseca",
             "email": "er.fonseca@alumnos.duoc.cl",
             "rut": "19490565-3",
-            "avatar": "https://randomuser.me/api/portraits/lego/9.jpg"
+            "avatar": "https://randomuser.me/api/portraits/lego/9.jpg",
+            "descripcion": "Sed vitae ipsum in lectus facilisis fermentum at in arcu."
         },
         {
             "id": 10,
             "nombre": "Pamela Inalef",
             "email": "p.inalef@alumnos.duoc.cl",
             "rut": "16812748-0",
-            "avatar": "https://randomuser.me/api/portraits/lego/1.jpg"
+            "avatar": "https://randomuser.me/api/portraits/lego/1.jpg",
+            "descripcion": "Curabitur at urna eu ex fermentum tincidunt ut non velit."
         },
         {
             "id": 11,
             "nombre": "Sergio Muñoz",
             "email": "sera.munoz@alumnos.duoc.cl",
             "rut": "19213849-3",
-            "avatar": "https://randomuser.me/api/portraits/lego/2.jpg"
+            "avatar": "https://randomuser.me/api/portraits/lego/2.jpg",
+            "descripcion": "Nulla volutpat elit eget leo commodo porta."
         },
         {
             "id": 12,
             "nombre": "José Parra",
             "email": "jp.parra@alumnos.duoc.cl",
             "rut": "17140665-K",
-            "avatar": "https://randomuser.me/api/portraits/lego/3.jpg"
+            "avatar": "https://randomuser.me/api/portraits/lego/3.jpg",
+            "descripcion": "Nulla sed tellus sed libero aliquet condimentum."
         },
         {
             "id": 13,
             "nombre": "Nicolás Pérez",
             "email": "nic.perezs@alumnos.duoc.cl",
             "rut": "18784578-5",
-            "avatar": "https://randomuser.me/api/portraits/lego/4.jpg"
+            "avatar": "https://randomuser.me/api/portraits/lego/4.jpg",
+            "descripcion": "Nam congue turpis nec gravida pretium."
         },
         {
             "id": 14,
             "nombre": "Camila Quinteros",
             "email": "c.quinterost@alumnos.duoc.cl",
             "rut": "18915534-4",
-            "avatar": "https://randomuser.me/api/portraits/lego/5.jpg"
+            "avatar": "https://randomuser.me/api/portraits/lego/5.jpg",
+            "descripcion": "Nullam et erat vitae sem rhoncus feugiat faucibus ut dui."
         },
         {
             "id": 15,
             "nombre": "José Ignacio Ramírez",
             "email": "jose.ramirezg@alumnos.duoc.cl",
             "rut": "19774893-1",
-            "avatar": "https://randomuser.me/api/portraits/lego/6.jpg"
+            "avatar": "https://randomuser.me/api/portraits/lego/6.jpg",
+            "descripcion": "Cras nec ante sit amet enim venenatis laoreet."
         },
         {
             "id": 16,
             "nombre": "Loreto Vildoso",
             "email": "lo.vildoso@alumnos.duoc.cl",
             "rut": "18011285-5",
-            "avatar": "https://randomuser.me/api/portraits/lego/7.jpg"
+            "avatar": "https://randomuser.me/api/portraits/lego/7.jpg",
+            "descripcion": "Praesent sed turpis vel arcu auctor rhoncus vitae vel nunc."
         }
     ]
 }
