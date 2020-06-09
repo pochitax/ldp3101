@@ -1,0 +1,116 @@
+{
+    "alumnos":[
+        {
+            "id": 1,
+            "nombre": "Luis Altamirano",
+            "email": "luis.altamiran@alumnos.duoc.cl",
+            "rut": "19328211-3",
+            "avatar": "https://randomuser.me/api/portraits/lego/1.jpg"
+        },
+        {
+            "id": 2,
+            "nombre": "Daniel Antio",
+            "email": "da.antio@alumnos.duoc.cl",
+            "rut": "19618757-K",
+            "avatar": "https://randomuser.me/api/portraits/lego/2.jpg"
+        },
+        {
+            "id": 3,
+            "nombre": "Francisca Araya",
+            "email": "fraj.araya@alumnos.duoc.cl",
+            "rut": "20014538-0",
+            "avatar": "https://randomuser.me/api/portraits/lego/3.jpg"
+        },
+        {
+            "id": 4,
+            "nombre": "Marcelo Arias",
+            "email": "ma.ariass@alumnos.duoc.cl",
+            "rut": "19664604-3",
+            "avatar": "https://randomuser.me/api/portraits/lego/4.jpg"
+        },
+        {
+            "id": 5,
+            "nombre": "Elvis Cajales",
+            "email": "e.cajales@alumnos.duoc.cl",
+            "rut": "19577501-K",
+            "avatar": "https://randomuser.me/api/portraits/lego/5.jpg"
+        },
+        {
+            "id": 6,
+            "nombre": "Nicolás Cheuque",
+            "email": "ni.cheuque@alumnos.duoc.cl",
+            "rut": "20729028-9",
+            "avatar": "https://randomuser.me/api/portraits/lego/6.jpg"
+        },
+        {
+            "id": 7,
+            "nombre": "Paulina Escudero",
+            "email": "pau.escudero@alumnos.duoc.cl",
+            "rut": "19449127-1",
+            "avatar": "https://randomuser.me/api/portraits/lego/7.jpg"
+        },
+        {
+            "id": 8,
+            "nombre": "Juan Figueroa",
+            "email": "juaa.figueroa@alumnos.duoc.cl",
+            "rut": "20271785-3",
+            "avatar": "https://randomuser.me/api/portraits/lego/8.jpg"
+        },
+        {
+            "id": 9,
+            "nombre": "Eros Fonseca",
+            "email": "er.fonseca@alumnos.duoc.cl",
+            "rut": "19490565-3",
+            "avatar": "https://randomuser.me/api/portraits/lego/9.jpg"
+        },
+        {
+            "id": 10,
+            "nombre": "Pamela Inalef",
+            "email": "p.inalef@alumnos.duoc.cl",
+            "rut": "16812748-0",
+            "avatar": "https://randomuser.me/api/portraits/lego/1.jpg"
+        },
+        {
+            "id": 11,
+            "nombre": "Sergio Muñoz",
+            "email": "sera.munoz@alumnos.duoc.cl",
+            "rut": "19213849-3",
+            "avatar": "https://randomuser.me/api/portraits/lego/2.jpg"
+        },
+        {
+            "id": 12,
+            "nombre": "José Parra",
+            "email": "jp.parra@alumnos.duoc.cl",
+            "rut": "17140665-K",
+            "avatar": "https://randomuser.me/api/portraits/lego/3.jpg"
+        },
+        {
+            "id": 13,
+            "nombre": "Nicolás Pérez",
+            "email": "nic.perezs@alumnos.duoc.cl",
+            "rut": "18784578-5",
+            "avatar": "https://randomuser.me/api/portraits/lego/4.jpg"
+        },
+        {
+            "id": 14,
+            "nombre": "Camila Quinteros",
+            "email": "c.quinterost@alumnos.duoc.cl",
+            "rut": "18915534-4",
+            "avatar": "https://randomuser.me/api/portraits/lego/5.jpg"
+        },
+        {
+            "id": 15,
+            "nombre": "José Ignacio Ramírez",
+            "email": "jose.ramirezg@alumnos.duoc.cl",
+            "rut": "19774893-1",
+            "avatar": "https://randomuser.me/api/portraits/lego/6.jpg"
+        },
+        {
+            "id": 16,
+            "nombre": "Loreto Vildoso",
+            "email": "lo.vildoso@alumnos.duoc.cl",
+            "rut": "18011285-5",
+            "avatar": "https://randomuser.me/api/portraits/lego/7.jpg"
+        }
+    ]
+}
